@@ -1,0 +1,99 @@
+form {
+  box-shadow: 0.5px 0px 6px #888888;
+  margin-left: 21%;
+  margin-right: 41%;
+  padding: 30px;
+  border-style:inherit;
+}
+.navbar navbar-expand-lg navbar-light bg-light {
+  color:black;
+}
+
+.form-group{
+  margin-top: 10px;
+  margin-left: 115px;
+  color: #555;
+  border-color: #456;
+}
+.form-title{
+  margin-left: 25.53%;
+  color: rgba(38, 136, 111, 0.788);
+}
+
+.signup{
+  margin-left: 20px;
+}
+
+#register{
+  margin-left: 110px;
+  margin-top: 8px;
+  border-color: #456;
+  color: rgb(49, 71, 3);
+}
+
+#name{
+  border-color: #456;
+}
+
+#email{
+  border-color: #456;
+}
+
+#password{
+  border-color: #456;
+}
+
+.contact-form{
+  margin-left: 190px;
+  width: 607px;
+}
+.contact_form_title{
+  width:200px;
+  margin-left: 189px;
+}
+#contact_form_name{
+  width:170px;
+}
+#contact_form_email{
+  width: 170px;
+}
+#contact_form_phone{
+  width: 170px;
+}
+
+#search-sample-box{
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 78px;
+}
+.ser{
+  box-shadow: none;
+
+}
+
+#search-sample{
+  margin-left: 340px;
+}
+
+h5{
+  color: #666;
+}
+.hae-report{
+  box-shadow: 1px 1px 15px #888888;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 40px;
+  padding:90px;
+
+}
+
+.hae-title{
+  margin-left: 41.53%;
+  color: rgba(38, 136, 111, 0.788);
+}
+
+.hae-input{
+  width: 390px;
+}
