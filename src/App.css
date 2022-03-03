@@ -1,38 +1,141 @@
-.App {
-  text-align: center;
+#register-form {
+  box-shadow: 0.5px 0px 6px #888888;
+  margin-left: 21%;
+  margin-right: 41%;
+  padding: 30px;
+  border-style:inherit;
+} */
+
+
+.navbar navbar-expand-lg navbar-light bg-light {
+  color:black;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.form-group{
+  margin-top: 10px;
+  margin-left: 115px;
+  color: #555;
+  border-color: #456;
+}
+.form-title{
+  margin-left: 25.53%;
+  color: rgba(38, 136, 111, 0.788);
+}
+#user-login-title{
+  margin-left: 31.53%;
+  color: rgba(38, 136, 111, 0.788);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#admin-login-title{
+  margin-left: 28.1%; ;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#login-button{
+  margin-left:45.53%;
+
 }
 
-.App-link {
-  color: #61dafb;
+.signup{
+  margin-left: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#register{
+  margin-left: 110px;
+  margin-top: 8px;
+  border-color: #456;
+  color: rgb(49, 71, 3);
+}
+
+#name{
+  border-color: #456;
+}
+
+#email{
+  border-color: #456;
+}
+
+#password{
+  border-color: #456;
+}
+
+.contact-form{
+  margin-left: 190px;
+  width: 607px;
+}
+.contact_form_title{
+  width:200px;
+  margin-left: 189px;
+}
+#contact_form_name{
+  width:170px;
+}
+#contact_form_email{
+  width: 170px;
+}
+#contact_form_phone{
+  width: 170px;
+}
+
+.thyroid-form {
+  box-shadow: 0.5px 0px 18px #888888;
+  margin-left: 15%;
+  margin-right: 16.67%;
+  padding: 40px;
+  border-style:inherit;
+}
+.thyroid-input {
+  width: 590px;
+  padding: 8px;
+}
+#thyroid-button{
+  margin-left: 525px;
+}
+
+#search-sample-box{
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 78px;
+}
+.ser{
+  box-shadow: none;
+
+}
+
+#search-sample{
+  margin-left: 340px;
+}
+
+h5{
+  color: #666;
+}
+.hae-report{
+  box-shadow: 1px 1px 15px #888888;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 15px;
+  padding:40px;
+
+}
+
+.hae-title{
+  margin-left: 41.53%;
+  color: rgba(38, 136, 111, 0.788);
+}
+
+.hae-input{
+  width: 390px;
+}
+
+#hae-button{
+  margin-left: 1095px;
+  padding: 3px;
+  margin-top: 6px;
+}
+.input-feedback {
+  color: rgb(235, 54, 54);
+  margin-top: -15px;
+  font-size: 14px;
+  margin-bottom: 20px;
 }
